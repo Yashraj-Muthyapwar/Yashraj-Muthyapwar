@@ -1,6 +1,6 @@
 # Hi there 👋  
 <p align="center">
-  <img src="My.png" alt="Yashraj Muthyapwar Banner" width="100%" />
+  <img src="Profile.png" alt="Yashraj Muthyapwar Banner" width="100%" />
 </p>
 
 ## 🔥 Key Projects

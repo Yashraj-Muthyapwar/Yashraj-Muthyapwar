@@ -1,8 +1,9 @@
 # Hi there 👋  
 <p align="center">
-  <img src="My.png" alt="Yashraj Muthyapwar Banner" width="100%" />
+  <img src="My.png" alt="Yashraj Muthyapwar Banner" style="max-width:100%;height:220px;object-fit:cover;" />
 </p>
 
+## 🔥 Key Projects
 
 ### [<img src="https://img.shields.io/badge/-Chrome%20Extension-grey?style=flat-square&logo=google-chrome" height="18"/> PrepWise — AI Interview Simulator](https://chromewebstore.google.com/detail/nhdmfoekhhmamoidnappbckcjlbojnke?utm_source=item-share-cb)  
 *The smarter way to prepare for technical interviews*

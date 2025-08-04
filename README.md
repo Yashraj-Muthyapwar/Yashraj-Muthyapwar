@@ -1,6 +1,6 @@
 # Hi there 👋  
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Yashraj Muthyapwar Banner" width="100%" />
+  <img src="My.png" alt="Yashraj Muthyapwar Banner" width="100%" />
 </p>
 
 

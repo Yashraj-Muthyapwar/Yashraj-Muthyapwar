@@ -39,7 +39,6 @@
 - **Delivered production-ready AI and automation tools with measurable impact**
 - **Optimized AI-driven search to achieve real-time, high-accuracy results across large-scale datasets**
 - **Developed privacy-first, secure solutions with robust authentication and user data protection**
-- **Recognized for building intuitive, visually engaging UIs that simplify complex workflows**
 
 ---
 

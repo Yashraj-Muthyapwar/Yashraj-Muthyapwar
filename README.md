@@ -40,24 +40,5 @@
 - **Optimized AI-driven search to achieve real-time, high-accuracy results across large-scale datasets**
 - **Developed privacy-first, secure solutions with robust authentication and user data protection**
 
----
-
-### 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashraj-muthyapwar/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muthyapwaryashraj@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/CodeComicVerse)
-
----
-
-### ⚡ About Me
-
-- Based in the US | 23 years old | Passionate about data-driven products
-- Actively upskilling in advanced NLP, cloud AI, and vector search systems
-- Creator of [@CodeComicVerse](https://instagram.com/CodeComicVerse) – making tech learning visual and accessible
-- Seeking impactful opportunities in Data Science, AI Product Development, or Cloud Engineering
-
----
-
 > **Let’s connect if you’re looking for a results-driven data scientist/engineer with proven product-building skills and a passion for real-world impact.**
 

@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=2C9FE0&center=true&vCenter=true&multiline=false&width=700&lines=I+build+RAG+systems+that+work+beyond+the+demo;I+engineer+cloud+data+pipelines+on+AWS%2C+Azure+%26+GCP;I+turn+unstructured+data+into+reliable+LLM+applications;I+ship+agentic+tools+from+prototype+to+production)](https://github.com/Yashraj-Muthyapwar)
 
+[![Email](https://img.shields.io/badge/Email-muthyapwaryashraj%40gmail.com-0f2027?style=flat-square&logo=gmail&logoColor=white)](mailto:muthyapwaryashraj@gmail.com)
 </div>
 
 I build **end-to-end intelligent systems** designing RAG pipelines, LLM agents, and agentic tools on the AI side, while architecting the **cloud data infrastructure** those systems depend on. My work spans **AWS, Azure, and GCP**, with a focus on retrieval quality, LLM observability, IaC-managed pipelines, and production reliability.
@@ -36,9 +37,9 @@ An **agentic system** that converts plain-English business questions into **accu
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashraj-Muthyapwar/LyteQuery-AI-SQL-Agent)
 
-## 🏗️ Data Infrastructure
+# 🏗️ Data Infrastructure
 
-## AWS Retail Data Pipeline &nbsp;—&nbsp; IaC with Terraform
+## 🟠 AWS Retail Data Pipeline &nbsp;—&nbsp; IaC with Terraform
 
 **`Terraform`** &nbsp;**`AWS Glue`** &nbsp;**`Amazon S3`** &nbsp;**`Amazon Athena`** &nbsp;**`AWS RDS`**
 
@@ -46,7 +47,7 @@ An **agentic system** that converts plain-English business questions into **accu
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashraj-Muthyapwar/aws-retail-data-pipeline)
 
-## AWS Governed Lakehouse &nbsp;—&nbsp; Apache Iceberg + Lake Formation
+## 🔷 AWS Governed Lakehouse &nbsp;—&nbsp; Apache Iceberg + Lake Formation
 
 **`Apache Iceberg`** &nbsp;**`AWS Lake Formation`** &nbsp;**`Amazon Athena`** &nbsp;**`RBAC`** &nbsp;**`Amazon S3`**
 
@@ -54,7 +55,7 @@ A **governed data lakehouse on AWS** using **Apache Iceberg** as the open table 
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashraj-Muthyapwar/aws-governed-lakehouse)
 
-## Azure E-Commerce Analytics Pipeline &nbsp;—&nbsp; Medallion Architecture
+## 🔵 Azure E-Commerce Analytics Pipeline &nbsp;—&nbsp; Medallion Architecture
 
 **`Azure Data Factory`** &nbsp;**`Databricks`** &nbsp;**`PySpark`** &nbsp;**`Synapse Analytics`** &nbsp;**`Power BI`**
 

@@ -3,8 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yashraj%20Muthyapwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20systems%20from%20raw%20data%20to%20production%20AI&descAlignY=60&descSize=17&descColor=a0c4d8" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=2C9FE0&center=true&vCenter=true&multiline=false&width=700&lines=I+build+RAG+systems+that+work+beyond+the+demo;I+engineer+cloud+data+pipelines+on+AWS%2C+Azure+%26+GCP;I+turn+unstructured+data+into+reliable+LLM+applications;I+ship+agentic+tools+from+prototype+to+production)](https://github.com/Yashraj-Muthyapwar)
-
-[![Email](https://img.shields.io/badge/Email-muthyapwaryashraj%40gmail.com-0f2027?style=flat-square&logo=gmail&logoColor=white)](mailto:muthyapwaryashraj@gmail.com)
 </div>
 
 I build **end-to-end intelligent systems** designing RAG pipelines, LLM agents, and agentic tools on the AI side, while architecting the **cloud data infrastructure** those systems depend on. My work spans **AWS, Azure, and GCP**, with a focus on retrieval quality, LLM observability, IaC-managed pipelines, and production reliability.
